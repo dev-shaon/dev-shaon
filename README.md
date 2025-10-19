@@ -1,5 +1,6 @@
 # 💫 About Me:
-Android and IOS Developer developer with more than 6 months of experience, skilled in building high-quality cross-platform mobile apps and creating intuitive user interfaces. Proficient in Dart and experienced in teamwork and problem-solving. Strong communication skills, attention to detail, and a proactive approach to tasks make me a reliable also dependable member of any development team. Deep understanding of the Flutter framework and mobile app development process, with a passion for creating innovative and engaging apps. Always looking for opportunities to continue learning and growing as a developer.
+👋 Hi, I’m Shaon,
+Flutter developer with a strong focus on clean code, performance, and user-friendly app design. Passionate about building cross-platform applications that solve real-world problems.
 
 
 ## 🌐 Socials:
