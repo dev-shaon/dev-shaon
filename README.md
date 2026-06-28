@@ -1,131 +1,32 @@
-<div align="center">
+# 💫 About Me:
+👋 Hi, I’m Shaon,
+Flutter developer with a strong focus on clean code, performance, and user-friendly app design. Passionate about building cross-platform applications that solve real-world problems.
 
-# Shaon Das
 
-### Flutter Developer • Mobile Application Engineer
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shaon.das.000) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaon0022) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaon-das-b90aa0339) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@DAS.1.2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaondas675@gmail.com) 
 
-Building high-quality, scalable, and user-centric mobile applications with Flutter.
 
-<p>
-<a href="https://linkedin.com/in/shaon-das-b90aa0339"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://facebook.com/shaon.das.000"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-<a href="https://instagram.com/shaon0022"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://youtube.com/@DAS.1.2"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
-<a href="mailto:shaondas675@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-<img src="https://komarev.com/ghpvc/?username=dev-shaon&style=flat-square&color=blue" />
+### 🚀 Published Apps
 
-</div>
+I have developed and published the following applications on both major platforms:
 
----
+| App | Platform | Status | Link |
+| :--- | :--- | :--- | :--- |
+| 📸 RepUp | 🍎 App Store | ✅ Live | [Download on App Store](https://apps.apple.com/us/app/repup-every-rep-counts/id6759552549) |
+| 🔧 FARMERS DOORSTEP | 🍎 App Store | 🔄 Coming Soon | — |
+| 🔧 FARMERS DOORSTEP | 🤖 Play Store | 🔄 Coming Soon | — |
 
-# About
-
-I'm a Flutter Developer focused on building scalable, maintainable, and high-performance mobile applications.
-
-My development philosophy is simple:
-
-- Clean Architecture
-- Maintainable Code
-- Smooth User Experience
-- Performance First
-- Pixel Perfect UI
-- Reliable State Management
-
-I enjoy turning ideas into production-ready applications while following modern software engineering practices.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dev-shaon&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dev-shaon&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shaon&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=dev-shaon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# Tech Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio,figma,photoshop,illustrator"/>
-
-</p>
-
----
-
-# Published Applications
-
-| Application | Platform | Status |
-|--------------|----------|--------|
-| **RepUp – Every Rep Counts** | 🍎 App Store | ✅ Live |
-| **Farmers Doorstep** | 🍎 App Store | 🚧 Coming Soon |
-| **Farmers Doorstep** | 🤖 Google Play | 🚧 Coming Soon |
-
-### RepUp
-
-> Fitness tracking application available on the Apple App Store.
-
-<a href="https://apps.apple.com/us/app/repup-every-rep-counts/id6759552549">
-<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50">
-</a>
-
----
-
-# What I Do
-
-✔ Cross-platform Mobile Development
-
-✔ REST API Integration
-
-✔ Firebase Integration
-
-✔ Authentication
-
-✔ Payment Gateway
-
-✔ In-App Purchases
-
-✔ Push Notifications
-
-✔ Maps & Location
-
-✔ State Management (Bloc / Provider / Riverpod)
-
-✔ App Store Deployment
-
-✔ Google Play Deployment
-
-✔ Performance Optimization
-
----
-
-# GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-shaon&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shaon&layout=compact&hide_border=true&theme=transparent"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=dev-shaon&hide_border=true&theme=transparent"/>
-
-</p>
-
----
-
-# Currently Exploring
-
-- Flutter 4
-- Clean Architecture
-- Modular Project Structure
-- CI/CD
-- Fastlane
-- App Performance
-- AI Integration
-- Supabase
-
----
-
-<div align="center">
-
-### "Build software that people enjoy using."
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
