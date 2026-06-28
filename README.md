@@ -65,7 +65,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>🏋️ RepUp — Every Rep Counts</b></td>
+      <td><b>🏋️RepUp — Every Rep Counts</b></td>
       <td align="center">🍏 iOS App Store</td>
       <td align="center">🟢 <b>Live</b></td>
       <td align="right"><a href="https://apps.apple.com/us/app/repup-every-rep-counts/id6759552549">View on App Store</a></td>
