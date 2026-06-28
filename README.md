@@ -1,32 +1,107 @@
-# 💫 About Me:
-👋 Hi, I’m Shaon,
-Flutter developer with a strong focus on clean code, performance, and user-friendly app design. Passionate about building cross-platform applications that solve real-world problems.
+<h1 align="center">Hi 👋, I'm Shaon Das</h1>
+<h3 align="center">Flutter Developer • Clean Architecture • Cross-Platform Apps</h3>
 
+<p align="center">
+Building fast, scalable, and beautiful mobile applications with Flutter.
+Passionate about creating products that provide great user experiences.
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shaon.das.000) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaon0022) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaon-das-b90aa0339) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@DAS.1.2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaondas675@gmail.com) 
-
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
-### 🚀 Published Apps
-
-I have developed and published the following applications on both major platforms:
-
-| App | Platform | Status | Link |
-| :--- | :--- | :--- | :--- |
-| 📸 RepUp | 🍎 App Store | ✅ Live | [Download on App Store](https://apps.apple.com/us/app/repup-every-rep-counts/id6759552549) |
-| 🔧 FARMERS DOORSTEP | 🍎 App Store | 🔄 Coming Soon | — |
-| 🔧 FARMERS DOORSTEP | 🤖 Play Store | 🔄 Coming Soon | — |
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dev-shaon&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dev-shaon&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shaon&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<a href="https://github.com/dev-shaon">
+<img src="https://komarev.com/ghpvc/?username=dev-shaon&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dev-shaon&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📱 Flutter Developer with a focus on **Clean Architecture**
+- 🎯 Passionate about building high-performance mobile apps
+- ⚡ Love writing clean, maintainable, and scalable code
+- 🎨 Interested in UI/UX and smooth user experiences
+- 🌱 Currently exploring advanced Flutter & backend integrations
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+<a href="https://facebook.com/shaon.das.000"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://instagram.com/shaon0022"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shaon-das-b90aa0339"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://youtube.com/@DAS.1.2"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="mailto:shaondas675@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma,photoshop,illustrator,vscode,androidstudio"/>
+
+</p>
+
+---
+
+# 📱 Published Apps
+
+| Application | Platform | Status |
+| ------------ | -------- | ------ |
+| 📸 **RepUp – Every Rep Counts** | 🍎 App Store | ✅ Live |
+| 🌾 **Farmers Doorstep** | 🍎 App Store | 🚧 Coming Soon |
+| 🌾 **Farmers Doorstep** | 🤖 Google Play | 🚧 Coming Soon |
+
+### 📥 RepUp
+
+<a href="https://apps.apple.com/us/app/repup-every-rep-counts/id6759552549">
+<img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple"/>
+</a>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-shaon&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shaon&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=dev-shaon&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## ⚙️ Current Focus
+
+```text
+📱 Flutter Development
+🧩 Clean Architecture
+🚀 Performance Optimization
+🎨 Modern UI/UX
+🔗 REST API Integration
+💳 In-App Purchases & Subscriptions
+🍎 App Store & Google Play Deployment
+```
+
+---
+
+## 💬 Favorite Quote
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider giving a star to my repositories.
+
+</p>
