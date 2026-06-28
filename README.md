@@ -22,10 +22,8 @@ I have developed and published the following applications on both major platform
 
 | App | Platform | Status | Link |
 | :--- | :--- | :--- | :--- |
-| 📸 RepUp | 🍎 App Store | ✅ Live | [Download on App Store]([https://apps.apple.com/us/app/repup-every-rep-counts/id6759552549]) |
+| 📸 RepUp | 🍎 App Store | ✅ Live | [Download on App Store](https://apps.apple.com/us/app/repup-every-rep-counts/id6759552549) |
 | 🔧 FARMERS DOORSTEP | 🍎 App Store | 🔄 Coming Soon | — |
 | 🔧 FARMERS DOORSTEP | 🤖 Play Store | 🔄 Coming Soon | — |
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
