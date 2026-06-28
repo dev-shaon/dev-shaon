@@ -1,107 +1,131 @@
-<h1 align="center">Hi 👋, I'm Shaon Das</h1>
-<h3 align="center">Flutter Developer • Clean Architecture • Cross-Platform Apps</h3>
+<div align="center">
 
-<p align="center">
-Building fast, scalable, and beautiful mobile applications with Flutter.
-Passionate about creating products that provide great user experiences.
+# Shaon Das
+
+### Flutter Developer • Mobile Application Engineer
+
+Building high-quality, scalable, and user-centric mobile applications with Flutter.
+
+<p>
+<a href="https://linkedin.com/in/shaon-das-b90aa0339"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://facebook.com/shaon.das.000"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+<a href="https://instagram.com/shaon0022"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://youtube.com/@DAS.1.2"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="mailto:shaondas675@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-<a href="https://github.com/dev-shaon">
-<img src="https://komarev.com/ghpvc/?username=dev-shaon&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=dev-shaon&style=flat-square&color=blue" />
+
+</div>
+
+---
+
+# About
+
+I'm a Flutter Developer focused on building scalable, maintainable, and high-performance mobile applications.
+
+My development philosophy is simple:
+
+- Clean Architecture
+- Maintainable Code
+- Smooth User Experience
+- Performance First
+- Pixel Perfect UI
+- Reliable State Management
+
+I enjoy turning ideas into production-ready applications while following modern software engineering practices.
+
+---
+
+# Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio,figma,photoshop,illustrator"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 📱 Flutter Developer with a focus on **Clean Architecture**
-- 🎯 Passionate about building high-performance mobile apps
-- ⚡ Love writing clean, maintainable, and scalable code
-- 🎨 Interested in UI/UX and smooth user experiences
-- 🌱 Currently exploring advanced Flutter & backend integrations
-
----
-
-## 🌍 Connect With Me
-
-<p align="left">
-<a href="https://facebook.com/shaon.das.000"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://instagram.com/shaon0022"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/shaon-das-b90aa0339"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://youtube.com/@DAS.1.2"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="mailto:shaondas675@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma,photoshop,illustrator,vscode,androidstudio"/>
-
-</p>
-
----
-
-# 📱 Published Apps
+# Published Applications
 
 | Application | Platform | Status |
-| ------------ | -------- | ------ |
-| 📸 **RepUp – Every Rep Counts** | 🍎 App Store | ✅ Live |
-| 🌾 **Farmers Doorstep** | 🍎 App Store | 🚧 Coming Soon |
-| 🌾 **Farmers Doorstep** | 🤖 Google Play | 🚧 Coming Soon |
+|--------------|----------|--------|
+| **RepUp – Every Rep Counts** | 🍎 App Store | ✅ Live |
+| **Farmers Doorstep** | 🍎 App Store | 🚧 Coming Soon |
+| **Farmers Doorstep** | 🤖 Google Play | 🚧 Coming Soon |
 
-### 📥 RepUp
+### RepUp
+
+> Fitness tracking application available on the Apple App Store.
 
 <a href="https://apps.apple.com/us/app/repup-every-rep-counts/id6759552549">
-<img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple"/>
+<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50">
 </a>
 
 ---
 
-# 📈 GitHub Analytics
+# What I Do
+
+✔ Cross-platform Mobile Development
+
+✔ REST API Integration
+
+✔ Firebase Integration
+
+✔ Authentication
+
+✔ Payment Gateway
+
+✔ In-App Purchases
+
+✔ Push Notifications
+
+✔ Maps & Location
+
+✔ State Management (Bloc / Provider / Riverpod)
+
+✔ App Store Deployment
+
+✔ Google Play Deployment
+
+✔ Performance Optimization
+
+---
+
+# GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-shaon&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-shaon&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shaon&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shaon&layout=compact&hide_border=true&theme=transparent"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=dev-shaon&theme=tokyonight&hide_border=true"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=dev-shaon&hide_border=true&theme=transparent"/>
 
 </p>
 
 ---
 
-## ⚙️ Current Focus
+# Currently Exploring
 
-```text
-📱 Flutter Development
-🧩 Clean Architecture
-🚀 Performance Optimization
-🎨 Modern UI/UX
-🔗 REST API Integration
-💳 In-App Purchases & Subscriptions
-🍎 App Store & Google Play Deployment
-```
-
----
-
-## 💬 Favorite Quote
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
+- Flutter 4
+- Clean Architecture
+- Modular Project Structure
+- CI/CD
+- Fastlane
+- App Performance
+- AI Integration
+- Supabase
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ If you like my work, consider giving a star to my repositories.
+### "Build software that people enjoy using."
 
-</p>
+</div>
