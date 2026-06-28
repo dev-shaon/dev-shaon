@@ -50,7 +50,7 @@ Passionate about creating products that provide great user experiences.
 
 | Application | Platform | Status |
 | ------------ | -------- | ------ |
-| 📸 **RepUp – Every Rep Counts** | 🍎 App Store | ✅ Live |
+| 🏋️ **RepUp – Every Rep Counts** | 🍎 App Store | ✅ Live |
 | 🌾 **Farmers Doorstep** | 🍎 App Store | 🚧 Coming Soon |
 | 🌾 **Farmers Doorstep** | 🤖 Google Play | 🚧 Coming Soon |
 
