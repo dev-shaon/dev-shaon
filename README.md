@@ -67,18 +67,23 @@ Passionate about creating products that provide great user experiences.
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dev-shaon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shaon&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shaon&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-shaon&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-shaon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shaon&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" />
 </p>
 
+<h3 align="center">📊 Activity Metrics</h3>
+
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dev-shaon&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Total_Commits-600+-7928CA?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PRs_Merged-95%25-FF0080?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code_Quality-Clean-00DF89?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
+
+---
 
 ---
 
