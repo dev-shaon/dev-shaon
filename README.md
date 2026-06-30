@@ -67,13 +67,21 @@ Passionate about creating products that provide great user experiences.
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shaon&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shaon&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-shaon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shaon&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" />
-</p>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=dev-shaon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" width="100%" />
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shaon&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <h3 align="center">📊 Activity Metrics</h3>
 
@@ -82,10 +90,6 @@ Passionate about creating products that provide great user experiences.
   <img src="https://img.shields.io/badge/PRs_Merged-95%25-FF0080?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Code_Quality-Clean-00DF89?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
-
----
-
----
 
 ---
 
